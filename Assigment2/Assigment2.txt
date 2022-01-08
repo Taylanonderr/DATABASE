@@ -1,0 +1,51 @@
+Assignment 2 & Project
+
+(Deadline 28 Haziran 23:55 )
+
+ 
+
+ 
+
+Suppose that you have a company. You want to create the database of your company with user interfaces of it.
+
+ 
+
+·      Describe the user requirements of your company.
+
+·      Draw the E-R diyagram of the company.
+
+·      Do normalization.
+
+·      List the functional dependencies.
+
+·      List your tables.
+
+·      Create the database of it including everything (tables, relationships, keys etc.). You may use any database management system.
+
+·      Create the user interface of at least 5 modules using any programming language. Choose the interfaces according to the questions below.
+
+·      Create and use at least 5 different triggers making completely different tasks. Show how they are working in your interfaces.
+
+·      Create and use at least 5 different views that are completely different from each other. Show how they are working in your interface.
+
+·      Give and create at least 3 atomic transactions.
+
+·      For at least 3 tasks solve concurrency of transactions using any techniques in the book.
+
+·      Add additional details about the database if there is any.
+
+ 
+
+Grading: You will be graded according to the report you have created using all the details listed above (and more) as assignment 2. And you will be graded from implementations as the project grade.
+
+ 
+
+Note:
+
+·      You will not be graded according to how sophisticated and fancy your user interphase is. But your have to create one, otherwise you will have a lower grade.
+
+·      You must have a project and present it in the presentation section, otherwise you will not pass the course.
+
+·      Your E-R diagram should be as complex as the E-R diagram of student managements system example in the book. Which means, it should be have many entities and relations.
+
+·      You have to prepare your project individually. This project is not a group Project.

@@ -1,0 +1,47 @@
+Assignment 1
+
+Deadline (17.05.2020 23:55)
+
+ 
+
+This assignment is not a group assignment. You have to solve them by yourself. You have to solve the questions on a paper, not a word document. Take the photo of the paper and upload it to the assignment in our moodle page.
+
+ 
+
+ 
+
+A Park consists of Woods, which consist of a collection of Wood-Sections each has a number of specific species of trees. You can access everywhere by Roads. The woods also has a Manager. There are a number of There are Fire-Stations in the park. Each one monitors fires in the Park. There are Facilities which consists of  camps and offices in the park. There are also Rivers. Each river supply water to a different facility. 
+
+ 
+
+Abswer the questions using the text above.
+
+ 
+
+1-    (20 points) Draw the E-R diagram of the park.
+
+ 
+
+2-    (20 points) Give all the functional dependencies in the question.
+
+ 
+
+3-    (20 points)
+
+ 
+
+a-Give all the relations that holds the criterias of Boyce-Codd Normal Form, if there is any. Explain three of them why they are in Boyce-Codd Normal Form, give your reasons and proofs in details. (If there isn’t any relations that satisfy the criteria of Boyce-Codd Normal Form, then just write it.)
+
+ 
+
+b- Give all the relations that does not hold the criterias of Boyce-Codd Normal Form, if there is any. Explain three of them why they are not in Boyce-Codd Normal Form, give your reasons and proofs in details.  (If there isn’t any relations, then just write it.)
+
+ 
+
+4-    (20 points)
+
+a-Give all the relations that holds the criterias of 3NF, if there is any. Explain three of them why they are in 3NF, give your reasons and proofs in details. (If there isn’t any relations that satisfy the criteria of 3NF, then just write it.)
+
+ 
+
+b- Give all the relations that does not hold the criterias of 3NF, if there is any. Explain three of them why they are not in 3NF, give your reasons and proofs in details.  (If there isn’t any relations, then just write it.)
